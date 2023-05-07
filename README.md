@@ -20,7 +20,7 @@
 ## Authors
 
    - Léo Leprêtre (https://github.com/LeoLEPRETRE)
-   - Henri Gey-Bechalier (https://github.com/Hyunsuke)
+   - Henri Gey Bechalier (https://github.com/Hyunsuke)
 
 
 ## Langage
