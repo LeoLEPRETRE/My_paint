@@ -6,11 +6,12 @@
 
 ## Introduction
 
-   In this project the aim is to develop knowledge in graphic skills. Here you have to recreate a part of
-   the paint software and therefore create your own GUI.
+   This project is a partial reproduction of the Paint software. It is part of the B2 - C Graphical Programming module given at Epitech Technologies.
+   This software allows the management of a drop-down menu, the use of different drawing tools (as for the initial software) as well as a help page 
+   to help the understanding of the use of the software.
 
 
-## How to use it ?
+## Installation
 
    - Compilation   :  make
    - Start program : ./my_paint
