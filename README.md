@@ -1,2 +1,2 @@
 # My_paint
-Epitech Project which aims to reproduce an alternative version of softwares Paint, Gimp or Photoshop.
+![LOGO](https://fr.wikipedia.org/wiki/Paint.net#/media/Fichier:Paint.NET_3.35_screenshot.png)
