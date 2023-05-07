@@ -1,2 +1,2 @@
 # My_paint
-![LOGO](https://3dvf.com/wp-content/uploads/2018/07/zFDvp.jpg)
+![LOGO]https://upload.wikimedia.org/wikipedia/commons/f/f8/Paint.NET_3.35_screenshot.png
